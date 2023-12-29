@@ -1,0 +1,58 @@
+[
+    {
+        "Pred": "after her brother s debut concert the assassin moscow tries to kill michael ",
+        "gold": "after her brother s debut concert the assassin mosca tries to kill michael ",
+        "goph": "ˈæftər hər ˈbrʌðər ɛs deɪˈbju ˈkɑnsərt ðə əˈsæsən ˈmoʊskə traɪz tu kɪl ˈmaɪkəl",
+        "cer": 0.02702702702702703,
+        "wer": 0.07692307692307693
+    },
+    {
+        "Pred": "the vladivostok international airport is located near aratail ",
+        "gold": "the vladivostok international airport is located near artyom ",
+        "goph": "ðə vˌlædɪˈvɔstɑk ˌɪntərˈnæʃənɑl ˈɛrˌpɔrt ɪz ˈloʊˌkeɪtəd nɪr artyom*",
+        "cer": 0.06666666666666667,
+        "wer": 0.125
+    },
+    {
+        "Pred": "sintashta is situated in the steppe just east of the yerl mountains ",
+        "gold": "sintashta is situated in the steppe just east of the ural mountains ",
+        "goph": "sintashta* ɪz ˈsɪʧuˌeɪtɪd ɪn ðə stɛp ʤʌst ist ʌv ðə ˈjʊrəl ˈmaʊntənz",
+        "cer": 0.04477611940298507,
+        "wer": 0.08333333333333333
+    },
+    {
+        "Pred": "especially everything for him to touch on his gals they must be curious why he just stood there ",
+        "gold": "there is a special affinity for heptatonic scales in the western key signature system ",
+        "goph": "ðɛr ɪz ə ˈspɛʃəl əˈfɪnɪti fɔr heptatonic* skeɪlz ɪn ðə ˈwɛstərn ki ˈsɪgnəʧər ˈsɪstəm",
+        "cer": 0.8,
+        "wer": 1.2857142857142858
+    },
+    {
+        "Pred": "afterwards he was a regional vice president for frontier airlines ",
+        "gold": "afterwards he was a regional vice president for frontier airlines ",
+        "goph": "ˈæftərwərdz hi wɑz ə ˈriʤənəl vaɪs ˈprɛzɪdənt fɔr frənˈtɪr ˈɛˌrlaɪnz",
+        "cer": 0.0,
+        "wer": 0.0
+    },
+    {
+        "Pred": "however using these features incorrectly may lead to menority correction errors ",
+        "gold": "however using these features incorrectly may lead to memory corruption errors ",
+        "goph": "ˌhaʊˈɛvər ˈjuzɪŋ ðiz ˈfiʧərz ˌɪnkərˈɛktli meɪ lɛd tu ˈmɛməri kərˈʌpʃən ˈɛrərz",
+        "cer": 0.06493506493506493,
+        "wer": 0.18181818181818182
+    },
+    {
+        "Pred": "plastic letters has been digitally remastered and reissued twice ",
+        "gold": "plastic letters has been digitally remastered and re issued twice ",
+        "goph": "ˈplæstɪk ˈlɛtərz hæz bɪn ˈdɪʤətəli remastered* ənd reɪ ˈɪʃud twaɪs",
+        "cer": 0.015384615384615385,
+        "wer": 0.2
+    },
+    {
+        "Pred": "giving binds friends to oneself ",
+        "gold": "giving binds friends to oneself ",
+        "goph": "ˈgɪvɪŋ baɪndz frɛndz tu ˌwahnˈsɛlf",
+        "cer": 0.0,
+        "wer": 0.0
+    }
+]
